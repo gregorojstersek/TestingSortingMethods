@@ -18,6 +18,7 @@ const generatePowers = (powersCount, from, to) => {
 const generateRandomNumber = (from, to) => {
     return Math.floor(Math.random() * to) + from;
 }
+
 module.exports = {
     generateNumbers,
     generatePowers

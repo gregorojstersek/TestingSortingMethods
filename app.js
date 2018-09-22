@@ -90,7 +90,7 @@ if (test === 'a') {
     heapSort.sort(generatedPowers.slice(), excTimes);
     mergeSort.sort(generatedPowers.slice(), excTimes);
 
-    // // what we normally use
+    // what we normally use
     builtInSort.sort(generatedPowers.slice(), excTimes);
     lodashSort.sort(generatedPowers.slice(), excTimes);
 

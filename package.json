@@ -1,0 +1,16 @@
+{
+  "name": "basic-cs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "util": "^0.11.0",
+    "yargs": "^12.0.2"
+  }
+}
